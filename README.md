@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Glad to see you here. 
+
+You can contact me via ...
+
+- email ~ ekatereanagricaenko@gmail.com
+- linkedIn ~ https://www.linkedin.com/in/ekaterina-gricaenko/
+- phone ~ +380679882126
+- telegram ~ @grizik
+
+
 <!--
 **Ekatereana/Ekatereana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
