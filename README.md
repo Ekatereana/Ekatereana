@@ -7,7 +7,7 @@ You can contact me via ...
 - email ~ ekatereanagricaenko@gmail.com
 - linkedIn ~ https://www.linkedin.com/in/ekaterina-gricaenko/
 - phone ~ +380679882126
-- telegram ~ @grizik
+- telegram ~ https://t.me/grizik
 
 
 <!--
